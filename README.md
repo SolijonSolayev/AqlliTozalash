@@ -29,6 +29,35 @@ Maqsad — tizimni keraksiz fayllardan tozalash, joy bo‘shatish va ishlash tez
 
 ---
 
+## 📥 Yuklab olish yoki o‘rnatish
+
+### 1️⃣ Git orqali (tavsiya etiladi)
+
+Agar sizda `git` o‘rnatilgan bo‘lsa, quyidagi buyruq yordamida repozitoriyani klonlang:
+
+```bash
+git clone https://github.com/solijon-solayev/AqlliTozalash.git
+```
+
+So‘ngra papkaga kiring:
+
+```bash
+cd AqlliTozalash
+```
+
+### 2️⃣ ZIP fayl orqali
+
+Agar `git` o‘rnatilmagan bo‘lsa:
+
+1. Repozitoriya sahifasiga o‘ting: [AqlliTozalash GitHub’da](https://github.com/solijon-solayev/AqlliTozalash)  
+2. Yashil **Code** tugmasini bosing  
+3. “**Download ZIP**” ni tanlang va arxivni oching  
+
+---
+Shundan so‘ng yuqoridagi [⚙️ Ishga tushirish qo‘llanmasi](https://github.com/SolijonSolayev/AqlliTozalash/tree/main?tab=readme-ov-file#%EF%B8%8F-ishga-tushirish-qollanmasi) bo‘limidagi ko‘rsatmalarni bajaring.
+
+---
+
 ## ⚙️ Ishga tushirish qo‘llanmasi
 
 ### 🐧 macOS/Linux uchun
