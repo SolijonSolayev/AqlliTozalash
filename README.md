@@ -36,7 +36,7 @@ Maqsad — tizimni keraksiz fayllardan tozalash, joy bo‘shatish va ishlash tez
 Agar sizda `git` o‘rnatilgan bo‘lsa, quyidagi buyruq yordamida repozitoriyani klonlang:
 
 ```bash
-git clone https://github.com/solijon-solayev/AqlliTozalash.git
+git clone https://github.com/solijonsolayev/AqlliTozalash.git
 ```
 
 So‘ngra papkaga kiring:
@@ -49,7 +49,7 @@ cd AqlliTozalash
 
 Agar `git` o‘rnatilmagan bo‘lsa:
 
-1. Repozitoriya sahifasiga o‘ting: [AqlliTozalash GitHub’da](https://github.com/solijon-solayev/AqlliTozalash)  
+1. Repozitoriya sahifasiga o‘ting: [AqlliTozalash GitHub’da](https://github.com/SolijonSolayev/AqlliTozalash)  
 2. Yashil **Code** tugmasini bosing  
 3. “**Download ZIP**” ni tanlang va arxivni oching  
 
