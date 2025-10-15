@@ -91,17 +91,18 @@ Hamjamiyat yordami har doim qadrlanadi! 💪
 
 ---
 
-## 📜 Litsenziya — GNU GENERAL PUBLIC LICENSE v3.0
+## 📜 Litsenziya — [GNU GENERAL PUBLIC LICENSE v3.0](https://github.com/solijon-solayev/AqlliTozalash/blob/main/LICENSE)
 
-Ushbu loyiha **GNU General Public License v3.0 (GPL-3.0)** ostida tarqatiladi. Asosiy shartlar:
+Ushbu loyiha **[GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html)** ostida tarqatiladi. Asosiy shartlar:
 
-- Siz kodni **erkin foydalanishingiz, o‘zgartirishingiz va tarqatishingiz** mumkin.
-- **Mualliflik (© Solijon Solayev)** har doim ko‘rsatilishi **majburiy**.
-- Agar siz o‘zgartirishlar kiritgan bo‘lsangiz, bu **aniq ko‘rsatilishi** kerak (change log, header yoki README’da).
-- Har qanday tarqatilgan o‘zgartirilgan versiya ham **GPL-3.0** ostida bo‘lishi shart (ya’ni ochiq qoladi).
-- Kod **yopiq** tarzda qayta tarqatilishi yoki “men yozdim” deb talqin qilinishi mumkin emas.
+- Siz kodni **erkin foydalanishingiz, o‘zgartirishingiz va tarqatishingiz** mumkin.  
+- **Mualliflik (© Solijon Solayev)** har doim ko‘rsatilishi **majburiy**.  
+- Agar siz o‘zgartirishlar kiritgan bo‘lsangiz, bu **aniq ko‘rsatilishi** kerak (header yoki README’da).  
+- Har qanday tarqatilgan o‘zgartirilgan versiya ham **GPL-3.0** ostida bo‘lishi shart.  
+- Kod **yopiq** tarzda qayta tarqatilishi yoki mualliflikni o‘zgartirish **taqiqlanadi**.
 
-To‘liq litsenziya matnini `LICENSE` faylida topishingiz mumkin yoki rasmiy sahifaga qarang: https://www.gnu.org/licenses/gpl-3.0.html
+To‘liq litsenziya matni uchun: [LICENSE fayli](https://github.com/solijon-solayev/AqlliTozalash/blob/main/LICENSE)
+
 
 ---
 
@@ -109,4 +110,4 @@ To‘liq litsenziya matnini `LICENSE` faylida topishingiz mumkin yoki rasmiy sah
 
 ---
 
-© 2025 Solijon Solayev
+© 2025 [Solijon Solayev](https://SolijonSolayev.github.io)
