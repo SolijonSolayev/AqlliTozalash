@@ -84,7 +84,7 @@ cd \path\to\script
 
 ## 🤝 Hissa qo‘shish va aloqa
 
-Takliflar yoki xatoliklar bo‘lsa — [**Issue**](https://github.com/<username>/<repository>/issues) oching yoki [**Pull Request**](https://github.com/<username>/<repository>/pulls) yuboring.  
+Takliflar yoki xatoliklar bo‘lsa — [**Issue**](https://github.com/SolijonSolayev/AqlliTozalash/issues) oching yoki [**Pull Request**](https://github.com/SolijonSolayev/AqlliTozalash/pulls) yuboring.  
 Hamjamiyat yordami har doim qadrlanadi! 💪 
 
 📫 Aloqa: [@Solijon_Solayev](https://taplink.cc/solijon_solayev)
