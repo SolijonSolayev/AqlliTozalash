@@ -54,9 +54,6 @@ Agar `git` o‘rnatilmagan bo‘lsa:
 3. “**Download ZIP**” ni tanlang va arxivni oching  
 
 ---
-Shundan so‘ng yuqoridagi [⚙️ Ishga tushirish qo‘llanmasi](https://github.com/SolijonSolayev/AqlliTozalash/tree/main?tab=readme-ov-file#%EF%B8%8F-ishga-tushirish-qollanmasi) bo‘limidagi ko‘rsatmalarni bajaring.
-
----
 
 ## ⚙️ Ishga tushirish qo‘llanmasi
 
